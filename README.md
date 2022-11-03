@@ -31,4 +31,3 @@ Web Development student
 
 <a href="http://www.github.com/reinkaoss"><img src="https://activity-graph.herokuapp.com/graph?username=reinkaoss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?reinkaoss" frameborder="0"></iframe>
