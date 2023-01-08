@@ -4,10 +4,10 @@ My name is Victor Biscio
 Web Development student
 -----------------------
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [victorbiscio1@hotmail.com](mailto:victorbiscio1@hotmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Web development and gaming projects
+*  I'm based in London
+*  You can contact me at [victorbiscio1@hotmail.com](mailto:victorbiscio1@hotmail.com)
+*  I'm currently learning JavaScript/AJAX
+*  I'm open to collaborating on Web development and gaming projects
 
 ### Skills
 
