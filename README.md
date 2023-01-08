@@ -1,4 +1,4 @@
-My name is Victor Biscio
+Victor Biscio
 ==============================
 
 Web Development student
