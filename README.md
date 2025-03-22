@@ -1,12 +1,12 @@
 Victor Biscio
 ==============================
 
-Web Development student
+Web Developer and Process Control Automation enthusiast 
 -----------------------
 
 *  I'm based in London
 *  You can contact me at [victorbiscio1@hotmail.com](mailto:victorbiscio1@hotmail.com)
-*  I'm currently learning JavaScript/AJAX
+*  I'm currently experimenting Playwright, Selenium and pyautogui
 *  I'm open to collaborating on Web development and gaming projects
 
 ### Skills
